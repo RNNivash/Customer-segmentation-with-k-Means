@@ -32,9 +32,6 @@ This project applies **K-Means clustering** to segment customers based on demogr
   3. **Young and Low-Income Customers**
 - Visualization techniques like scatter plots and 3D plots help interpret clusters effectively.
 
-## 📸 **Visualizations**
-### Customer Clusters in 2D  
-![Cluster Visualization](https://github.com/RNNivash/Customer-segmentation-with-k-Means/blob/main/visualization.png)
 
 ## 🚀 **How to Run the Project**
 1. Clone the repository:  
